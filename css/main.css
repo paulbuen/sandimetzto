@@ -4,9 +4,13 @@
    Author's custom styles
    ========================================================================== */
 
+.hero-unit {
+  background-color: #fff;
+}
 
-
-
+#location, #sandimetz, #schedule, #clearfit {
+  padding-top:12em;
+}
 
 
 
